@@ -70,7 +70,7 @@ mercado_stock_price.csv
 google_hourly_search_trends.csv
 mercado_daily_revenue.csv
 
-## Question and Answers 
+## Questions and Answers 
 
 Question: Did the Google search traffic increase during the month that MercadoLibre released its financial results?
 
