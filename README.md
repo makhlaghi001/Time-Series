@@ -1,4 +1,4 @@
-## Assignment 11
+
 # Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 The data science manager asks if the Google search traffic for the company links to any financial events at the company. Or, does the search traffic data just present random noise? To answer this question, pick out any unusual patterns in the Google search data for the company, and connect them to the corporate financial events.
 
